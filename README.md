@@ -1,5 +1,9 @@
 # Content Scheduler MCP Server
 
+## Demo
+![Scheduling posts via Claude](Screenshot%20(68).png)
+![Live on Bluesky](Screenshot%20(69).png)
+
 An MCP (Model Context Protocol) server that lets an AI assistant such as Claude draft, schedule and publish social media posts through a real API (Bluesky), with a safe dry-run mode for testing.
 
 ## Tools
